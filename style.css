@@ -1,0 +1,23 @@
+.list {
+    color: green;
+}
+h1 {
+    color: green;
+    background-color: grey;
+}
+.img-concert{
+    width: 50px;
+    height: 50px;
+}
+
+.btst {
+    margin: 0 auto;
+}
+
+
+.container {
+	flex-direction: row;
+	/* flex-direction: column; */
+	/* flex-direction: row-reverse; */
+	/* flex-direction: column-reverse; */
+}
